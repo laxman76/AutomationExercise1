@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "WAM Test Suite" >
+
+	<test name = "HomePage Test">
+		<classes>
+			<class name="com.wam.HomePage"> </class>
+			<class name="com.wam.Login"> </class>
+		</classes>
+	</test>
+	
+</suite>
+
